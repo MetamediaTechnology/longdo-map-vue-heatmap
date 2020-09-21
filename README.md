@@ -1,5 +1,11 @@
 # longdo-map-vue-heatmap
 
+## Learn more about Longdo Map Heatmap (Pure JS)
+```
+https://github.com/MetamediaTechnology/heatmap-longdo-map
+```
+
+
 ## Project setup
 ```
 npm install
